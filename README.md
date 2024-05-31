@@ -4,7 +4,5 @@ ResponsiveBot is a sample that showcases how the Microsoft Bot Framework and Cog
 ## Demo
 
 ```bash
-
-
-https://drive.google.com/file/d/1eSoe54pjpZcoqHXBYSp6NdELYnPgc8UD/view?usp=sharing
+https://drive.google.com/file/d/1jQqsTg-umzhC_goIUhtSzJq_kXhs_E2O/view?usp=sharing
 ```
